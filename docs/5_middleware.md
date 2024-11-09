@@ -89,3 +89,5 @@ app.get('/complex',
 ```
 
 Dans la prochaine section, nous aborderons les tests de notre application Express.
+
+[Tests](6_testing.md)

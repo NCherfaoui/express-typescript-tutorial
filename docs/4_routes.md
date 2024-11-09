@@ -84,3 +84,5 @@ curl -X POST -H "Content-Type: application/json" -d '{"name":"John","email":"joh
 ```
 
 Dans la prochaine section, nous explorerons l'utilisation des middleware dans Express.
+
+[Middleware](5_middleware.md)

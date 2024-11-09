@@ -93,3 +93,5 @@ npm test
 5. **Maintenez vos tests** : Mettez à jour vos tests en même temps que votre code.
 
 Dans la prochaine section, nous aborderons le déploiement de notre application Express.
+
+[Déploiement](7_deployment.md)

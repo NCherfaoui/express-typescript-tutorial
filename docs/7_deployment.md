@@ -84,3 +84,5 @@ AWS Elastic Beanstalk gère le déploiement, de la mise à l'échelle à la surv
 7. **CI/CD** : Utilisez des outils d'intégration continue et de déploiement continu comme Jenkins, GitLab CI, ou GitHub Actions.
 
 En suivant ces étapes et bonnes pratiques, vous serez en mesure de déployer efficacement votre application Express TypeScript en production.
+
+Retour à la [page d'accueil](/)

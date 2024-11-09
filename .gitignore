@@ -28,3 +28,6 @@ coverage/
 # Fichiers temporaires
 tmp/
 temp/
+
+# build site
+_site/

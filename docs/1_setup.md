@@ -66,6 +66,7 @@ mon-projet-express-ts/
 ├── package.json
 └── tsconfig.json
 ```
+Voir en détail la section [Structure du projet](2_project-structure.md)
 
 ### 5. Scripts npm
 
@@ -81,4 +82,7 @@ Ajoutez les scripts suivants à votre `package.json` :
 
 Votre environnement est maintenant configuré pour développer une application Express avec TypeScript !
 
-Dans la prochaine section, nous créerons un serveur Express de base.
+Dans la prochaine section, nous allons voir comment structurer notre projet.
+
+[Structure du projet](2_project-structure.md)
+  

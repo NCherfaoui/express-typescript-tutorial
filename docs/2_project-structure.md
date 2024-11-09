@@ -80,3 +80,7 @@ mon-projet-express-ts/
 8. **Typage strict** : Utilisez TypeScript pour bénéficier d'un typage fort et améliorer la qualité du code.
 
 En suivant cette structure et ces bonnes pratiques, vous aurez une base solide pour développer et faire évoluer votre application Express avec TypeScript.
+
+Dans la prochaine section, nous allons voir comment créer notre serveur.
+
+[Création du serveur](3_server-creation.md)

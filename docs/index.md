@@ -4,35 +4,42 @@ Bienvenue dans ce tutoriel complet sur la création d'un serveur Express en util
 
 ## Table des matières
 
-1. [Configuration initiale](setup.md)
+1. [Configuration initiale](1_setup.md)
    - Installation des dépendances
    - Configuration de TypeScript
    - Structure du projet
 
-2. [Création du serveur](server-creation.md)
+2. [Structure du projet](2_project-structure.md)
+   - Explication de la structure du projet
+   - Utilisation des fichiers de configuration
+   - Bonnes pratiques de structure
+
+3. [Création du serveur](3_server-creation.md)
    - Mise en place du serveur Express de base
    - Configuration de TypeScript pour Express
 
-3. [Définition des routes](routes.md)
+
+4. [Définition des routes](4_routes.md)
    - Création de routes basiques
    - Utilisation des paramètres de route
    - Gestion des requêtes POST
 
-4. [Utilisation des middleware](middleware.md)
+5. [Utilisation des middleware](5_middleware.md)
    - Qu'est-ce qu'un middleware ?
    - Middleware intégrés d'Express
    - Création de middleware personnalisés
 
-5. [Tests](testing.md)
+6. [Tests](6_testing.md)
    - Configuration de l'environnement de test
    - Écriture de tests unitaires
    - Écriture de tests d'intégration
 
-6. [Déploiement](deployment.md)
+7. [Déploiement](7_deployment.md)
    - Préparation de l'application pour la production
    - Options de déploiement
    - Bonnes pratiques de déploiement
 
+
 Chaque section de ce tutoriel contient des explications détaillées, des exemples de code et des exercices pratiques pour vous aider à maîtriser le développement de serveurs Express avec TypeScript.
 
-Commencez votre voyage en vous rendant à la [Configuration initiale](setup.md) !
+Commencez votre voyage en vous rendant à la [Configuration initiale](1_setup.md) !

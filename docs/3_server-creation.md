@@ -44,3 +44,5 @@ Vous devriez voir le message "Server running at http://localhost:3000" dans la c
 Ouvrez votre navigateur et allez à `http://localhost:3000`. Vous devriez voir le message "Hello World from Express + TypeScript!".
 
 Dans la prochaine section, nous explorerons comment définir des routes plus complexes dans notre application Express.
+
+[Routes](4_routes.md)

@@ -19,9 +19,7 @@
     <aside class="sidebar">
       <h3>Menu</h3>
       <ul>
-        {% if page.url != "/" %}
           <li><a href="/index.html">Accueil</a></li>
-        {% endif %}
         
         {% for page in site.pages %}
           {% if page.title and page.url != "/" %}
