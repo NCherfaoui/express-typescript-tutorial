@@ -25,10 +25,12 @@ Heroku est une plateforme cloud qui simplifie le déploiement.
 
 1. Créez un compte sur Heroku et installez l'Heroku CLI.
 2. Initialisez un repo git si ce n'est pas déjà fait :
+
    ```bash
    git init
    ```
 3. Créez une nouvelle application Heroku :
+
    ```bash
    heroku create
    ```
@@ -51,6 +53,7 @@ DigitalOcean offre des Droplets (VPS) sur lesquels vous pouvez déployer manuell
 4. Clonez votre repo git.
 5. Installez les dépendances et construisez l'application.
 6. Utilisez PM2 pour gérer votre processus Node.js :
+
    ```bash
    npm install -g pm2
    pm2 start dist/server.js
@@ -85,4 +88,6 @@ AWS Elastic Beanstalk gère le déploiement, de la mise à l'échelle à la surv
 
 En suivant ces étapes et bonnes pratiques, vous serez en mesure de déployer efficacement votre application Express TypeScript en production.
 
-Retour à la [page d'accueil](index.md)
+-----------
+Retour à la 
+[page d'accueil](index.md) |  [dépot Github](https://github.com/NCherfaoui/express-typescript-tutorial/)
