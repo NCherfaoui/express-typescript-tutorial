@@ -5,12 +5,13 @@ Ce dépôt contient un tutoriel complet sur la création d'un serveur Express av
 ## Sections du tutoriel
 
 1. [Introduction](docs/index.md)
-2. [Configuration initiale](docs/setup.md)
-3. [Création du serveur](docs/server-creation.md)
-4. [Définition des routes](docs/routes.md)
-5. [Utilisation des middleware](docs/middleware.md)
-6. [Tests](docs/testing.md)
-7. [Déploiement](docs/deployment.md)
+2. [Configuration initiale](docs/1_setup.md)
+3. [Structure du projet](docs/2_project-structure.md)
+4. [Création du serveur](docs/3_server-creation.md)
+5. [Définition des routes](docs/4_routes.md)
+6. [Utilisation des middleware](docs/5_middleware.md)
+7. [Tests](docs/6_testing.md)
+8. [Déploiement](docs/7_deployment.md)
 
 ## Pour commencer
 

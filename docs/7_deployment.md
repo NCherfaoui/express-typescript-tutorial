@@ -85,4 +85,4 @@ AWS Elastic Beanstalk gère le déploiement, de la mise à l'échelle à la surv
 
 En suivant ces étapes et bonnes pratiques, vous serez en mesure de déployer efficacement votre application Express TypeScript en production.
 
-Retour à la [page d'accueil](/)
+Retour à la [page d'accueil](index.md)
